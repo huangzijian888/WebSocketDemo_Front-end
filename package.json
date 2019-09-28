@@ -1,5 +1,5 @@
 {
-  "name": "sell",
+  "name": "WebSocketDemo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,13 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "element-ui": "^2.12.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0",
+    "sockjs-client": "^1.4.0",
+    "stompjs": "^2.3.3",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
